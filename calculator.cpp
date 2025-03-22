@@ -19,7 +19,7 @@ int main() {
     }
 
     cout << "Welcome to the C++ calculator!" << endl;
-    cout << "Enter an expression: \nPress q to quit\nc to clear\nd to delete history\nl to load history:" << endl;
+    cout << "q to quit\nc to clear\nd to delete history\nl to load history\nEnter an expression:" << endl;
 
     // Main calculator loop
     while (true)

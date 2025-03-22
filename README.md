@@ -4,7 +4,7 @@ I wrote a calculator in C++. The calculator can add, subtract, multiply, divide,
 
 My purpose for writing this software was to learn the C++ language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LSk3mwWq-gE)
 
 # Development Environment
 
